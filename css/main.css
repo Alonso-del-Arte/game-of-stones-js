@@ -1,1 +1,4 @@
+h1 { text-align: center; font-size: 48pt }
+h1#underHeader { color: gray; font-size: 60pt }
+h1#overHeader { margin-top: -2em }
 span.stone { border: 1px solid black }

@@ -1,1 +1,1 @@
-const stoneChar = "&#x77F3";
+const stoneChar = "&#x77F3;";
