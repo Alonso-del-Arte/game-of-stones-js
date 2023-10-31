@@ -1,4 +1,5 @@
-This project might be open to Hacktoberfest 2023 contributors.
+This project is closed to Hacktoberfest 2023 contributors but will be open to 
+Hacktoberfest 2024.
 
 # Guidelines for Hacktoberfest 2023 contributors
 
